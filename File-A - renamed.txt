@@ -1,6 +1,6 @@
 First line - f. A
 Line added on laptop
 
-feature-three - local commited
+feature-three - local commited + remote change
 
 AAA - remote changes
